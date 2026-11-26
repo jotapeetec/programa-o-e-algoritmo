@@ -15,3 +15,5 @@ Aprender a criar repositórios, realizar commits, criar branches e fazer merges.
 - HTML
 - Git
 - GitHub
+## Desenvolvimento
+Esta seção foi adicionada na branch desenvolvimento.
